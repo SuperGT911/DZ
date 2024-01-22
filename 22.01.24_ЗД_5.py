@@ -5,4 +5,4 @@ total = (a * 100 + b) * n
 rub = total // 100 # целая часть - рубли
 kop = total % 100 # остаток - копейки
 
-print(f"{rub}tub. {kop}kop.")
+print(f"{rub}rub. {kop}kop.")
